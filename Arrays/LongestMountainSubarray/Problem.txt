@@ -1,0 +1,3 @@
+Given an array arr[] with N elements, the task is to find out the longest sub-array which has the shape of a mountain.
+
+A mountain sub-array consists of elements that are initially in ascending order until a peak element is reached and beyond the peak element all other elements of the sub-array are in decreasing order.
